@@ -1,0 +1,13 @@
+﻿@page
+@model webProfe.App.Frontend.Pages.ListModel
+@{
+}
+<h1>Equipo Ciclo 3 Mision tic</h1>
+<table class="table">
+    @foreach(var equipo in Model.Equipos)
+    {
+        <tr>
+            <td>@equipo</td>
+        </tr>
+    }
+</table>
