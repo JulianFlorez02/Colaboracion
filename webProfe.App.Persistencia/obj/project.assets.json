@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "webProfe.App.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/webProfe.App.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/webProfe.App.Dominio.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "webProfe.App.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../webProfe.App.Dominio/webProfe.App.Dominio.csproj",
+      "msbuildProject": "../webProfe.App.Dominio/webProfe.App.Dominio.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "webProfe.App.Dominio >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\RESPALDO JULIAN\\MISION TIC\\2022-PROGRAMACION\\Ciclo 3\\Desarrollo de Software\\Proyectos\\webProfe\\webProfe.App\\webProfe.App.Dominio\\webProfe.App.Dominio.csproj": {
+              "projectPath": "D:\\RESPALDO JULIAN\\MISION TIC\\2022-PROGRAMACION\\Ciclo 3\\Desarrollo de Software\\Proyectos\\webProfe\\webProfe.App\\webProfe.App.Dominio\\webProfe.App.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

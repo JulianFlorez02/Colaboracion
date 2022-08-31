@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "webProfe.App.Persistencia/1.0.0": {
+        "dependencies": {
+          "webProfe.App.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "webProfe.App.Persistencia.dll": {}
+        }
+      },
+      "webProfe.App.Dominio/1.0.0": {
+        "runtime": {
+          "webProfe.App.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "webProfe.App.Persistencia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "webProfe.App.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -4,10 +4,13 @@
 }
 <h1>Equipo Ciclo 3 Mision tic</h1>
 <table class="table">
-    @foreach(var equipo in Model.Equipos)
+    @foreach (var idioma in Model.Idiomas)
     {
         <tr>
-            <td>@equipo</td>
+            <td>@idioma.Ingles</td>
+            <td>@idioma.Frances</td>
+            <td>@idioma.Portugues</td>
         </tr>
+        
     }
 </table>

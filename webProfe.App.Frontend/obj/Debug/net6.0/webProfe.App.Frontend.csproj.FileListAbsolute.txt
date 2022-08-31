@@ -24,3 +24,8 @@ D:\RESPALDO JULIAN\MISION TIC\2022-PROGRAMACION\Ciclo 3\Desarrollo de Software\P
 D:\RESPALDO JULIAN\MISION TIC\2022-PROGRAMACION\Ciclo 3\Desarrollo de Software\Proyectos\webProfe\webProfe.App\webProfe.App.Frontend\obj\Debug\net6.0\webProfe.App.Frontend.pdb
 D:\RESPALDO JULIAN\MISION TIC\2022-PROGRAMACION\Ciclo 3\Desarrollo de Software\Proyectos\webProfe\webProfe.App\webProfe.App.Frontend\obj\Debug\net6.0\webProfe.App.Frontend.genruntimeconfig.cache
 D:\RESPALDO JULIAN\MISION TIC\2022-PROGRAMACION\Ciclo 3\Desarrollo de Software\Proyectos\webProfe\webProfe.App\webProfe.App.Frontend\obj\Debug\net6.0\ref\webProfe.App.Frontend.dll
+D:\RESPALDO JULIAN\MISION TIC\2022-PROGRAMACION\Ciclo 3\Desarrollo de Software\Proyectos\webProfe\webProfe.App\webProfe.App.Frontend\bin\Debug\net6.0\webProfe.App.Dominio.dll
+D:\RESPALDO JULIAN\MISION TIC\2022-PROGRAMACION\Ciclo 3\Desarrollo de Software\Proyectos\webProfe\webProfe.App\webProfe.App.Frontend\bin\Debug\net6.0\webProfe.App.Persistencia.dll
+D:\RESPALDO JULIAN\MISION TIC\2022-PROGRAMACION\Ciclo 3\Desarrollo de Software\Proyectos\webProfe\webProfe.App\webProfe.App.Frontend\bin\Debug\net6.0\webProfe.App.Persistencia.pdb
+D:\RESPALDO JULIAN\MISION TIC\2022-PROGRAMACION\Ciclo 3\Desarrollo de Software\Proyectos\webProfe\webProfe.App\webProfe.App.Frontend\bin\Debug\net6.0\webProfe.App.Dominio.pdb
+D:\RESPALDO JULIAN\MISION TIC\2022-PROGRAMACION\Ciclo 3\Desarrollo de Software\Proyectos\webProfe\webProfe.App\webProfe.App.Frontend\obj\Debug\net6.0\webProfe.App.Frontend.csproj.CopyComplete

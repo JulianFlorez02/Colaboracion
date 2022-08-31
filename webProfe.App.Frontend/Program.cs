@@ -1,7 +1,10 @@
+using webProfe.App.Persistencia.AppRepositorio;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddSingleton<IRepositorioIdioma, RepositorioIdioma>();
 
 var app = builder.Build();
 

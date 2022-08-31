@@ -7,14 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "webProfe.App.Frontend/1.0.0": {
+        "dependencies": {
+          "webProfe.App.Dominio": "1.0.0",
+          "webProfe.App.Persistencia": "1.0.0"
+        },
         "runtime": {
           "webProfe.App.Frontend.dll": {}
+        }
+      },
+      "webProfe.App.Dominio/1.0.0": {
+        "runtime": {
+          "webProfe.App.Dominio.dll": {}
+        }
+      },
+      "webProfe.App.Persistencia/1.0.0": {
+        "dependencies": {
+          "webProfe.App.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "webProfe.App.Persistencia.dll": {}
         }
       }
     }
   },
   "libraries": {
     "webProfe.App.Frontend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "webProfe.App.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "webProfe.App.Persistencia/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
