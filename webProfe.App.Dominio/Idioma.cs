@@ -8,6 +8,7 @@ namespace webProfe.App.Dominio
         public string Ingles {get;set;}
         public string Frances {get;set;}
         public string Portugues {get;set;}
+        public string Espanol {get;set;}
     }
 }
 
